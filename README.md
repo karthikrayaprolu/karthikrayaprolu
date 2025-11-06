@@ -1,8 +1,6 @@
 <div align="center">
-	<!-- <!-- Header / Banner -->
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C60F,100:0072FF&height=180&section=header&text=Karthik%20Rayaprolu&fontSize=42&fontAlignY=35" alt="Header banner" />
 	<h3>Karthik Rayaprolu</h3>
-	<p>AI/ML Engineer &amp; Full‑Stack Developer</p> -->
+	<p>AI/ML Engineer &amp; Full‑Stack Developer</p>
 </div>
 
 <br/>
