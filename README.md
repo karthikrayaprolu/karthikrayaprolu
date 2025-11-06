@@ -28,9 +28,9 @@
 	<a href="https://www.codechef.com/users/karthik_r13" target="_blank">
 		<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 	</a>
-	<a href="https://www.hackerrank.com/profile/karthikrayaprol1" target="_blank">
+	<!-- <a href="https://www.hackerrank.com/profile/karthikrayaprol1" target="_blank">
 		<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-	</a>
+	</a> -->
 	<a href="https://codeforces.com/profile/karthikrayaprolu" target="_blank">
 		<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 	</a>
