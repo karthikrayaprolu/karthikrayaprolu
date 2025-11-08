@@ -1,12 +1,14 @@
-<div align="center">
-	<!-- <!-- Header / Banner -->
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C60F,100:0072FF&height=180&section=header&text=Karthik%20Rayaprolu&fontSize=42&fontAlignY=35" alt="Header banner" />
-	<h3>AI/ML Engineer &amp; Full‑Stack Developer</h3>
-	<p>I build production‑ready ML apps and delightful frontends.</p>
-</div>
+# 🪐 Karthik Rayaprolu Account
+**`Never Give Up!`**
+
+## About Me
+- SIH'2024 Finalist.
+- I build production‑ready ML apps and delightful frontends.
+- Solved more than 800+ DSA Problems.
 
 <br/>
 
+## Links
 <p align="center">
 	<a href="https://k-folio.vercel.app/" target="_blank">
 		<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0072FF?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -19,7 +21,8 @@
 	</a>
 </p>
 
-<h3 align="center">Connect with me</h3>
+## Connect with me
+<!-- <h3 align="center">Connect with me</h3> -->
 <p align="center">
 	<a href="https://www.linkedin.com/in/karthikrayaprolu" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -41,7 +44,7 @@
 	</a>
 </p>
 
-<h3 align="center">Skills</h3>
+## Skill Stack
 <div align="center">
 	<table>
 		<tr>
