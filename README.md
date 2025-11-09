@@ -1,5 +1,5 @@
 # 🪐 Karthik Rayaprolu Account
-**`Never Give Up!`**
+**`AI/ML Engineer & Full‑Stack Developer`**
 
 ## About Me
 - SIH'2024 Finalist.
