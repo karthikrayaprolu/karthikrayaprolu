@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://codolio.com/profile/Karthik@13/devStats/github" target="_blank">
     <img 
-      src="https://api.microlink.io/?url=https://codolio.com/profile/Karthik@13/devStats/github&screenshot=true&meta=false&embed=screenshot.url" 
+      src="[https://api.microlink.io/?url=https://codolio.com/profile/Karthik@13/devStats/github&screenshot=true&meta=false&embed=screenshot.url](https://codolio.com/profile/Karthik@13/devStats/github)" 
       alt="Live Preview"
       width="100%"
     />
