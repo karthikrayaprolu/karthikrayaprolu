@@ -1,6 +1,19 @@
 # 🪐 Karthik Rayaprolu Account
 **`AI/ML Engineer & Full‑Stack Developer`**
 
+## 🔴 Live Website Preview – DevStats
+<p align="center">
+  <a href="https://codolio.com/profile/Karthik@13/devStats/github" target="_blank">
+    <img 
+      src="https://api.microlink.io/?url=https://codolio.com/profile/Karthik@13/devStats/github&screenshot=true&meta=false&embed=screenshot.url" 
+      alt="Live Preview"
+      width="100%"
+    />
+  </a>
+</p>
+
+---
+
 ## About Me
 - SIH'2024 Finalist.
 - I build production‑ready ML apps and delightful frontends.
