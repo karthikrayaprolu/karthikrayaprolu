@@ -15,7 +15,7 @@
 	<a href="https://k-folio.vercel.app/" target="_blank">
 		<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0072FF?style=for-the-badge&logo=vercel&logoColor=white" />
 	</a>
-	<a href="https://drive.google.com/file/d/11mGD5uEHvUshFSDplw4_8IBqi33eEwVH/view?usp=drive_link" target="_blank">
+	<a href="https://drive.google.com/file/d/1Gl3WejCjHFUpVQaJE1_tMv2_LisglXeM/view?usp=drive_link" target="_blank">
 		<img alt="Resume" src="https://img.shields.io/badge/Resume-00C6FF?style=for-the-badge&logo=google-drive&logoColor=white" />
 	</a>
 	<a href="mailto:karthikrayaprolu13@gmail.com">
